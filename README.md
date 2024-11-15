@@ -1,2 +1,5 @@
-# JavaSE_code-2024
-JavaSE学习相关代码
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
